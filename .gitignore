@@ -22,3 +22,10 @@ build/*
 /bin/
 changelog.html
 /classes
+
+# eclipse
+eclipse/
+.settings/
+.classpath
+.project
+*.launch
